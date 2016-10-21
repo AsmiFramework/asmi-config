@@ -1,5 +1,5 @@
 {
-  "name": "asmi",
+  "name": "asmi-config",
   "version": "0.5.0",
   "description": "Wraps config module to match framework's requirements",
   "main": "asmi-config.js",
