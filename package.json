@@ -1,7 +1,7 @@
 {
   "name": "asmi-config",
-  "version": "0.5.0",
-  "description": "Wraps config module to match framework's requirements",
+  "version": "0.5.1",
+  "description": "Provides configuration to all framework modules (built in and custom), using 'config' module",
   "main": "asmi-config.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
